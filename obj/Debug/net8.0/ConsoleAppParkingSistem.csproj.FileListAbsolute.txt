@@ -1,0 +1,14 @@
+/home/enigma/Documents/BackEnd/dotnet/ConsoleAppParkingSistem/bin/Debug/net8.0/ConsoleAppParkingSistem
+/home/enigma/Documents/BackEnd/dotnet/ConsoleAppParkingSistem/bin/Debug/net8.0/ConsoleAppParkingSistem.deps.json
+/home/enigma/Documents/BackEnd/dotnet/ConsoleAppParkingSistem/bin/Debug/net8.0/ConsoleAppParkingSistem.runtimeconfig.json
+/home/enigma/Documents/BackEnd/dotnet/ConsoleAppParkingSistem/bin/Debug/net8.0/ConsoleAppParkingSistem.dll
+/home/enigma/Documents/BackEnd/dotnet/ConsoleAppParkingSistem/bin/Debug/net8.0/ConsoleAppParkingSistem.pdb
+/home/enigma/Documents/BackEnd/dotnet/ConsoleAppParkingSistem/obj/Debug/net8.0/ConsoleAppParkingSistem.GeneratedMSBuildEditorConfig.editorconfig
+/home/enigma/Documents/BackEnd/dotnet/ConsoleAppParkingSistem/obj/Debug/net8.0/ConsoleAppParkingSistem.AssemblyInfoInputs.cache
+/home/enigma/Documents/BackEnd/dotnet/ConsoleAppParkingSistem/obj/Debug/net8.0/ConsoleAppParkingSistem.AssemblyInfo.cs
+/home/enigma/Documents/BackEnd/dotnet/ConsoleAppParkingSistem/obj/Debug/net8.0/ConsoleAppParkingSistem.csproj.CoreCompileInputs.cache
+/home/enigma/Documents/BackEnd/dotnet/ConsoleAppParkingSistem/obj/Debug/net8.0/ConsoleAppParkingSistem.dll
+/home/enigma/Documents/BackEnd/dotnet/ConsoleAppParkingSistem/obj/Debug/net8.0/refint/ConsoleAppParkingSistem.dll
+/home/enigma/Documents/BackEnd/dotnet/ConsoleAppParkingSistem/obj/Debug/net8.0/ConsoleAppParkingSistem.pdb
+/home/enigma/Documents/BackEnd/dotnet/ConsoleAppParkingSistem/obj/Debug/net8.0/ConsoleAppParkingSistem.genruntimeconfig.cache
+/home/enigma/Documents/BackEnd/dotnet/ConsoleAppParkingSistem/obj/Debug/net8.0/ref/ConsoleAppParkingSistem.dll
